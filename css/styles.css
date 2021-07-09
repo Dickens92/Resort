@@ -1,0 +1,76 @@
+h1 {
+color: green;
+text-align: center;
+line-height: initial;
+letter-spacing: initial;
+font-style: normal;
+font-weight: bolder;
+}
+h2 {
+color: greenyellow;
+text-align: center;
+text-decoration: grey;
+text-indent: initial;
+text-shadow: lightcoral;
+}
+h4 {
+    color: green;
+    text-align: center;
+}
+header img {
+    margin-left: 45px;
+    height: 75px;
+}
+p {
+    font-size: 1vmax;
+    color: gray;
+    line-height: inherit;
+    text-align: center;
+    text-indent: 3px;
+}.Beacon {
+    color: black;
+    
+}
+header li a {
+    color: darkred;
+    text-decoration: darkslategrey;
+}
+p.Beacon {
+    font-size: 12pt;
+}
+nav {
+    background-color: white;      
+    
+}
+header li {
+    margin: 25px;
+}
+body {
+    height: 128vh;
+    background-size: cover;
+
+}
+header {
+    background-color: antiquewhite;
+    position: fixed;
+    height: 75px;
+    align-items: center;
+    right: 0;
+    left: 0;
+    display: flex;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px 0 rosybrown;
+}
+header * {
+    display: inline;
+}
+ul {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: darkolivegreen;
+    background-color: seashell;
+}
+
+
+
